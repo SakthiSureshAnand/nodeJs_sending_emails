@@ -1,0 +1,9 @@
+{
+    "database": {
+        "password": "admin",
+        "dialect": "mysql",
+        "name": "nodedebugproj",
+        "host": "localhost",
+        "username": "root"
+    }
+}
